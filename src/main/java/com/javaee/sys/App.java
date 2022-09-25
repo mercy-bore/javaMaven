@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome to Java EE!" );
+        System.out.println( "====   Welcome to Java EE Module!   =====" );
         System.out.println("Learn with Maven.");
     }
 }
